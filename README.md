@@ -1,1 +1,1 @@
-Grey is from SZTU China.
+Grey is a student from SZTU China.
