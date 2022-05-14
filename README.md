@@ -1,1 +1,1 @@
-Grey is a student from SZTU China.
+Grey is a developer from SZTU China.
